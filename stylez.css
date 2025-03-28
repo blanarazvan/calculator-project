@@ -66,3 +66,6 @@ body{
 .btn:hover{
     background-color: #cde7ca;
 }
+.active{
+    background-color: #cde7ca;
+}
